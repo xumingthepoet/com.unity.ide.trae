@@ -6,5 +6,5 @@
 - Insert <code>https://github.com/Asuta/com.unity.ide.windsurf.git</code><br>
 - Add<br>
 - Done
-![Package Add](https://github.com/Asuta/com.unity.ide.windsurf/blob/master/PackageImage.png)
-![Script Editor Setting](https://github.com/Asuta/com.unity.ide.windsurf/blob/master/SettingImage.webp)
+![Package Add](https://raw.githubusercontent.com/Asuta/com.unity.ide.windsurf/refs/heads/master/PackageImage.png)
+![Script Editor Setting](https://raw.githubusercontent.com/Asuta/com.unity.ide.windsurf/refs/heads/master/SettingImage.webp)
