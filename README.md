@@ -1,6 +1,6 @@
 # How to install
 
-## Recommended Method: Local Installation
+## Recommended Method: Local Installation(add package from git url not working and I do not know why)
 1. Download this package:
    - Download ZIP from GitHub or
    - Clone repository: `git clone https://github.com/xumingthepoet/com.unity.ide.trae.git`
