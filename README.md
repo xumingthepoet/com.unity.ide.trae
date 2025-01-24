@@ -1,11 +1,13 @@
 # How to install
 
-- Unity->Window->Package Manager
-- Click "+" left corner
-- Add package from git URL
-- Insert `https://github.com/xumingthepoet/com.unity.ide.trae.git`
-- Add
-- Done
-
-![Package Add](https://raw.githubusercontent.com/xumingthepoet/com.unity.ide.trae/master/PackageImage.png)
-![Script Editor Setting](https://raw.githubusercontent.com/xumingthepoet/com.unity.ide.trae/master/SettingImage.webp)
+## Recommended Method: Local Installation
+1. Download this package:
+   - Download ZIP from GitHub or
+   - Clone repository: `git clone https://github.com/xumingthepoet/com.unity.ide.trae.git`
+2. In Unity:
+   - Open Window->Package Manager
+   - Click "+" in top-left corner
+   - Choose "Add package from disk"
+   - Navigate to the downloaded folder
+   - Select the `package.json` file
+   - Click "Open"
